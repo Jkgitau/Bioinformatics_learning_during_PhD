@@ -6,3 +6,6 @@ A repository with Resources I used to learn stuff during my PhD journey
 
 #### A tutorial for analying HiC data
 ##### Example of test data from mouse: https://hicexplorer.readthedocs.io/en/latest/content/mES-HiC_analysis.html
+
+#### A super nice tool to downlaod any SRR data in parallel, thereby saving time 
+https://github.com/rvalieris/parallel-fastq-dump
